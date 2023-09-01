@@ -71,7 +71,7 @@ Used devops concepts and their authors:
 
 | Concept   | Author |
 |--------|-----|
-| Organization of activation of continuous integration focused on the application   | [Lucas Guiraldelli](https://www.linkedin.com/in/lucasguiraldelli/)  |
+| Organization of activation of continuous integration focused on the application   | [Igor Ribeiro](https://www.linkedin.com/in/igor-ribeiro-8571a6210/) |
 | Back-end unit tests using JUnit and mockito | [Igor Ribeiro](https://www.linkedin.com/in/igor-ribeiro-8571a6210/)  |
 | Front-end unit tests using Jest  | [Marcus Augusto](https://www.linkedin.com/in/mvarocha/) |
 | Management and tracking of issues on the project  | [Lara Leal](https://www.linkedin.com/in/lara-leal-527b7020a/) |
@@ -127,12 +127,12 @@ Access the step by step on how to run the program by clicking [Here](https://git
 
 | Events          | Start    | End      | Status |
 |-----------------|----------|----------|--------|
-| **Kick off**    | 13/02/23 | 03/03/23 |   ✔️ Accomplished      |
-| [Sprint 01](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint01.md)   | 13/03/23 | 02/04/23 |   ✔️ Accomplished       |
-| [Sprint 02](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint02.md)   | 03/04/23 | 23/04/23 |   ✔️ Accomplished        |
-| [Sprint 03](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint03.md)   | 24/04/23 | 14/05/23 |   ✔️ Accomplished     |
-| [Sprint 04](https://github.com/PhatomFatec/Midall-DataTransfer/blob/main/Sprints/Sprint04.md)   | 15/05/23 | 04/06/23 |   ⚙ In progress     |
-| **Final presentation + Solutions Fair** | 13/06/23 | 14/06/23 |   ❌ Accomplished  |
+| **Kick off**    | 21/08/23 | 28/08/23 |    ⚙ In progress     |
+| [Sprint 01]()   | 04/09/23 | 24/09/23 |    ⚙ In progress     |
+| [Sprint 02]()   | 25/09/23 | 15/10/23 |    ⚙ In progress     |
+| [Sprint 03]()   | 16/10/23 | 05/11/23 |    ⚙ In progress     |
+| [Sprint 04]()   | 06/11/23 | 26/11/23 |    ⚙ In progress     |
+| **Final presentation + Solutions Fair** | 12/12/23 | 12/12/23 |   ❌ Accomplished  |
 
 <br>
 
