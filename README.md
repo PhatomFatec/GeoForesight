@@ -58,26 +58,23 @@ O desafio é apresentar esses dados de forma clara e intuitiva em um sistema de 
 
 ### 📌 Functional Requirements
 
-#### Application 1:
+- Modelar um banco de dados espacial relacional a partir das tabelas do Proagro;
+- Plotar o perímetro das glebas informadas nas tabelas do Proagro em sistema de informação geográfica;
+- Atributar informações agrícolas relevantes às glebas plotadas em sistema de informação geográfica;
+- Cruzar a informação espacial da Gleba com a sua localização (Município e Estado);
+- Conectar e consumir a API da Visiona de Séries Temporais de Índices de Vegetação;
+- A consulta à API da Visiona deverá retornar uma série temporal a cada gleba consultada;
+- Salvar em banco de dados as séries temporais consumidas/consultadas;
+- Desenvolver um front end simples que mostra as glebas espacialmente distribuídas, um botão de seleção de gleba e o gráfico referente ao índice de vegetação;
+- A série temporal do índice de vegetação deverá ser apresentada pelas datas definidas entre 30 dias anteriores à data de plantio e 30 dias posteriores à data de colheita informados nas tabelas do Proagro e organizadas no banco de dados.
 
- - Build an application that will run on a local server to configure and configure the service.
- - In this application, create a screen for system configuration (with all the settings that the current application already has) also including the limitation of network bandwidth consumption and time for checking new files for download
- - Also create a screen for setting up the api access account (keep it safe).
- - Issue an alert in the OS warning that new files have been downloaded
- - Create downloaded file history screen
 
-#### Application 2:
-
- - Build an API that will be the service that will fetch the files that must be sent to the Cloud
- - Connect with the file API (use another provider, different from the one used in the previous requirement. It can be Google Drive, AWS S3, Dropbox, etc.)
- - Download the files, following the settings made in the application 1.
- - Create a dashboard to monitor executions (can be built in any BI tool, moving data from the local bank to another)
 
 ### 📌 Non-Functional Requirements
 
-#### Application 1:
-
-- Create authentication mechanism with application 2, hosted in the cloud (to not accept requests from unauthorized locations)
+- O tempo de resposta do site deve ser abaixo de 1,5 minutos em 99.99% das requisições
+- O mecanismo de consultas da aplicação deve gerar as trilhas em formato JSON (opcional)
+- O sistema deve conter métricas que ajudem a observar o seu comportamento: Qte de requisições, tempo de resposta, qtd e % de falhas ao obter dados dos Golden Sources.
 
 <br>
 
