@@ -1,5 +1,5 @@
 # GeoForesight
-**Phantom Presents:** Integrator Project, Fatec Prof. Jessen Vidal - 2023. 6th Semester <br>
+**Phantom Presents:** Integration Project, Fatec Prof. Jessen Vidal - 2023. 6th Semester <br>
 **Client:** <a href="https://visionaespacial.com/">Visiona</a>
 
 
@@ -24,8 +24,8 @@
 
 <h3 align="center">Problema</h3>
 <p align="justify">
-O Proagro é um programa do governo que financia atividades agrícolas de pequenos e médios produtores no Brasil. Ao participar, o produtor precisa fornecer detalhes sobre sua atividade agrícola e localização das áreas cultivadas. Esses dados são armazenados em tabelas e em um banco de dados. Além disso, informações sobre técnicas de cultivo, tipos de plantas, potencial de produção, datas de plantio e colheita são essenciais. O uso de sensoriamento remoto tem sido eficaz para monitorar atividades agrícolas, e os dados do Proagro são valiosos para criar modelos de inteligência artificial com base em informações obtidas por satélite.
-O desafio é apresentar esses dados de forma clara e intuitiva em um sistema de informações geográficas, combinando informações sobre operações agrícolas e dados de sensoriamento remoto.
+Proagro is a government program that finances agricultural activities of small and medium-sized producers in Brazil. When participating, the producer needs to provide details about their agricultural activity and location of cultivated areas. This data is stored in tables and a database. Furthermore, information on cultivation techniques, types of plants, production potential, planting and harvesting data are essential. The use of remote sensing has been effective for monitoring agricultural activities, and Proagro data is valuable for creating artificial intelligence models based on information obtained by satellite.
+The challenge is to present this data in a clear and intuitive way in a geographic information system, combining information about agricultural operations and remote sensing data.
 </p>
 <br>
 
@@ -58,23 +58,23 @@ O desafio é apresentar esses dados de forma clara e intuitiva em um sistema de 
 
 ### 📌 Functional Requirements
 
-- Modelar um banco de dados espacial relacional a partir das tabelas do Proagro;
-- Plotar o perímetro das glebas informadas nas tabelas do Proagro em sistema de informação geográfica;
-- Atributar informações agrícolas relevantes às glebas plotadas em sistema de informação geográfica;
-- Cruzar a informação espacial da Gleba com a sua localização (Município e Estado);
-- Conectar e consumir a API da Visiona de Séries Temporais de Índices de Vegetação;
-- A consulta à API da Visiona deverá retornar uma série temporal a cada gleba consultada;
-- Salvar em banco de dados as séries temporais consumidas/consultadas;
-- Desenvolver um front end simples que mostra as glebas espacialmente distribuídas, um botão de seleção de gleba e o gráfico referente ao índice de vegetação;
-- A série temporal do índice de vegetação deverá ser apresentada pelas datas definidas entre 30 dias anteriores à data de plantio e 30 dias posteriores à data de colheita informados nas tabelas do Proagro e organizadas no banco de dados.
+- Model a spatial relational database from Proagro tables;
+- Plot the perimeter of the plots reported in the Proagro tables in the geographic information system;
+- Attribute relevant agricultural information to plots plotted in a geographic information system;
+- Cross-reference the Gleba’s spatial information with its location (Municipality and State);
+- Connect and consume the Visiona Vegetation Index Time Series API;
+- The Visiona API query must return a time series for each plot consulted;
+- Save consumed/queried time series in the database;
+- Develop a simple front end that shows the spatially distributed plots, a plot selection button and the vegetation index graph;
+- The vegetation index time series must be presented by dates defined between 30 days before the planting date and 30 days after the harvest date informed in the Proagro tables and organized in the database.
 
 
 
 ### 📌 Non-Functional Requirements
 
-- O tempo de resposta do site deve ser abaixo de 1,5 minutos em 99.99% das requisições
-- O mecanismo de consultas da aplicação deve gerar as trilhas em formato JSON (opcional)
-- O sistema deve conter métricas que ajudem a observar o seu comportamento: Qte de requisições, tempo de resposta, qtd e % de falhas ao obter dados dos Golden Sources.
+- Website response time must be less than 1.5 minutes for 99.99% of requests
+- The application's query engine must generate the trails in JSON format (optional)
+- The system must contain metrics that help observe its behavior: Qty of requests, response time, qty and % of failures when obtaining data from Golden Sources.
 
 <br>
 
