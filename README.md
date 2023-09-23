@@ -87,7 +87,7 @@ The challenge is to present this data in a clear and intuitive way in a geograph
 <br>
 
 ## Executing the application 
-Access the step by step on how to run the program by clicking []().
+Access the step by step on how to run the program by clicking [Here](https://github.com/PhatomFatec/GeoForesight-back/blob/dev/README.md).
 
 <br>
 
