@@ -22,7 +22,7 @@
  |  <a href="#team-phantom">Team</a> |  <a href="#devops-concepts">DevOps</a> 
 </p>
 
-<h3 align="center">Problema</h3>
+<h3 align="center">Problem</h3>
 <p align="justify">
 Proagro is a government program that finances agricultural activities of small and medium-sized producers in Brazil. When participating, the producer needs to provide details about their agricultural activity and location of cultivated areas. This data is stored in tables and a database. Furthermore, information on cultivation techniques, types of plants, production potential, planting and harvesting data are essential. The use of remote sensing has been effective for monitoring agricultural activities, and Proagro data is valuable for creating artificial intelligence models based on information obtained by satellite.
 The challenge is to present this data in a clear and intuitive way in a geographic information system, combining information about agricultural operations and remote sensing data.
