@@ -120,7 +120,7 @@ Access the step by step on how to run the program by clicking [Here](https://git
 
 | Events          | Start    | End      | Status |
 |-----------------|----------|----------|--------|
-| **Kick off**    | 21/08/23 | 28/08/23 |    ⚙ In progress     |
+| **Kick off**    | 21/08/23 | 28/08/23 |  ✔️ Accomplished     |
 | [Sprint 01]()   | 04/09/23 | 24/09/23 |    ⚙ In progress     |
 | [Sprint 02]()   | 25/09/23 | 15/10/23 |    ⚙ In progress     |
 | [Sprint 03]()   | 16/10/23 | 05/11/23 |    ⚙ In progress     |
