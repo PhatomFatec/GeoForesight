@@ -10,11 +10,29 @@
 <br>
 <p align="center"> 
 
-* Study and understand the data provided
-* Select the most relevant information
-* Merge selected data
-* Enable simple data reporting
-* Create system wireframe
+**Sprint 1:**
+  * Study and understand the provided data.
+  * Perform the selection of the most relevant information.
+  * Merge the selected data.
+  * Enable the generation of simple data reports.
+  * Develop a system wireframe.
+
+**Sprint 2:**
+  * Begin the implementation of rules related to LGPD (Brazil's General Data Protection Law).
+  * Connect to and consume the Visiona API for Temporal Series of Vegetation Indexes.
+  * Save the consumed/queried temporal series in a database.
+  * Develop the system's interface that displays spatially distributed plots.
+
+**Sprint 3:**
+  * Cross-reference plot spatial information with its location (Municipality and State).
+  * Develop the vegetation index temporal series chart.
+  * Implement the query for the temporal series chart.
+  * Develop a report exportable in PDF format for each query.
+  * Create a simple front-end that includes spatial query interfaces, attribute table, and temporal series chart.
+
+**Sprint 4:**
+  * Integrate the User Manual into the system screens.
+  * Create an Installation Guide.
   
 <br> 
 </p>
@@ -23,11 +41,11 @@
 
 ## Sprint Burndown
 
-### colocar data da sprint e atualizar burndown
+### 21/08/23 - 28/08/23
 <br>
 
 <p align="center"> 
-<img src="https://media.discordapp.net/attachments/887890002741170176/1092601514784202833/WhatsApp_Image_2023-04-03_at_21.07.52.jpeg?width=876&height=507"/> <br>
+<img src="https://github.com/PhatomFatec/GeoForesight/assets/81486915/b4b871fc-ab4d-4573-a1e3-7d146d1ad301"/> <br>
 </p>
 
 <br>
