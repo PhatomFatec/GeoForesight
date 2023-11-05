@@ -123,7 +123,7 @@ Access the step by step on how to run the program by clicking [Here](https://git
 | **Kick off**    | 21/08/23 | 28/08/23 |  ✔️ Accomplished     |
 | [Sprint 01]()   | 04/09/23 | 24/09/23 |  ✔️ Accomplished     |
 | [Sprint 02]()   | 25/09/23 | 15/10/23 |  ✔️ Accomplished     |
-| [Sprint 03]()   | 16/10/23 | 05/11/23 |    ⚙ In progress     |
+| [Sprint 03]()   | 16/10/23 | 05/11/23 |  ✔️ Accomplished     |
 | [Sprint 04]()   | 06/11/23 | 26/11/23 |    ⚙ In progress     |
 | **Final presentation + Solutions Fair** | 12/12/23 | 12/12/23 |   ⚙ In progress |
 
@@ -143,8 +143,3 @@ Access the step by step on how to run the program by clicking [Here](https://git
 * **DEV** - Lara Oliveira Leal &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/lara-leal-527b7020a/) [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/lara-leal)
 
-* **DEV** - Bahij Noureddine &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/bahij-noureddine-941b681b7/) [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/BahijNoureddine)
-
-* **DEV** - Abraão Vasconcelos &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black"/>](https://www.linkedin.com/in/abraaovasconcelos/) [<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black"/>](https://github.com/AbraaoHenriqueVasconcelos2)
