@@ -124,7 +124,7 @@ Access the step by step on how to run the program by clicking [Here](https://git
 | [Sprint 01]()   | 04/09/23 | 24/09/23 |  ✔️ Accomplished     |
 | [Sprint 02]()   | 25/09/23 | 15/10/23 |  ✔️ Accomplished     |
 | [Sprint 03]()   | 16/10/23 | 05/11/23 |  ✔️ Accomplished     |
-| [Sprint 04]()   | 06/11/23 | 26/11/23 |    ⚙ In progress     |
+| [Sprint 04]()   | 06/11/23 | 26/11/23 |  ✔️ Accomplished     |
 | **Final presentation + Solutions Fair** | 12/12/23 | 12/12/23 |   ⚙ In progress |
 
 <br>
